@@ -7,7 +7,7 @@ tags: about
 
 > I'm Roy and I love coding.
 
-![First Internship](me.jpg) 
+![First Internship](me.jpg =250x) 
 
 I'm Roy, 16, and I strive to challenge myself in whatever it is I do (be it coding or snowboarding). My main aim is to solve issues that are currently faced around the world throuh the use of technology.
 
@@ -15,4 +15,4 @@ My knowledge of code and computer science is constantly growing as I regularly t
 
 I am currently studying for my A-levels and had the opportunity of interning with Zendesk for a week. This was a great experience that solidified my dream of working with a tech company in the future. More information about my time at Zendesk can be found in one of my blog posts.  
 
-In the future, I see myself studying for a masters in computer science and eventually working for an established tech company.
+In the future, I see myself studying for a masters degree in computer science and eventually working for an established tech company.
