@@ -6,7 +6,7 @@ tags: about
 ---
 > I'm Roy and I love coding.
 
-![First Internship](me.jpg) 
+![First Internship](me.jpg)  <!-- .element height="50%" width="50%" -->
 
 I'm Roy, 16, and I strive to challenge myself in whatever it is I do (be it coding or snowboarding). My main aim is to solve issues that are currently faced around the world throuh the use of technology.
 
