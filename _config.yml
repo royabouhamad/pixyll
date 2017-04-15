@@ -4,7 +4,7 @@ email:       roy.d.abouhamad@gmail.com
 author:      Roy Abouhamad
 description: "A website to document and share my coding ventures."
 baseurl:     ""
-url:         "https://www.royabouhad.github.io"
+url:         "https://royabouhad.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
