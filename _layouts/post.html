@@ -55,17 +55,15 @@ layout: default
 {% endif %}
 
 {% if site.show_related_posts %}
-  <div class="related-posts">
-    <h3 class="related-post-title">You may also like</h3>
-    {% for post in site.related_posts %}
-      <div class="post ml2">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <h4 class="post-title">{{ post.title }}</h4>
-          <p class="post-summary">{{ post.summary }}</p>
-        </a>
-      </div>
-    {% endfor %}
-  </div>
+  <h3 class="related-post-title">{{ site.text.post.related_posts }}</h3>
+  {% for post in site.related_posts %}
+    <div class="post ml2">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+        <h4 class="post-title">{{ post.title }}</h4>
+        <p class="post-summary">{{ post.summary }}</p>
+      </a>
+    </div>
+  {% endfor %}
 {% endif %}
 {% if page.comments %} • <a href="https://royabouhamad.github.io{{ page.url }}#disqus_thread"></a>{% endif %}
 
