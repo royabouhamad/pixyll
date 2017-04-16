@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<p><a href="royscv.docx">CV</a>(1 Page)</p>
+[CV](files/royscv.docx) (1 Page)
