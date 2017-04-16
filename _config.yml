@@ -119,3 +119,6 @@ gems:
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
+
+# Additional Settings
+include: ['_pages']
