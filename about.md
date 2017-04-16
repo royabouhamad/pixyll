@@ -7,7 +7,7 @@ tags: about
 > I'm Roy and I love coding.
 
 <div id="about-image">
-    <img href="images/me.jpeg" alt="First Internship"/>
+    <img href="images/me.jpg" alt="First Internship"/>
     <br>
 </div>
 
