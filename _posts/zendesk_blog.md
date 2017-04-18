@@ -1,0 +1,33 @@
+---
+layout:     post
+comments: true
+title:      My Zendesk Internship
+date:       2017-04-18 18:50:18
+summary:    My thoughts and experiences of my internship at Zendesk.
+categories: Zendesk Internship Work Tech
+---
+
+I recently had the opportunity to complete a week long internship at Zendesk's office in London. From this experience, I learnt a great deal and also met some really cool colleagues along the way.
+
+How I got the internship...
+---------------------------
+Throughout the months of October and November, I took part in the Headstart program. This program was designed to allow young people to get ahead in their career, by guaranteeing them an interview, if they gave up at least 16 hours of their time to volunteer in their local community. At first, I was a little skeptical about the program and whether I would do it or not, however when I looked through the list of potential employers, one of them caught my eye. Zendesk. This program would give me the chance to interview with a tech company(my dream) if I completed 16 hours of volunteer work, and I wasn't going to let that opportunity to pass me by. I completed my 16 hours within a month and then waited for the pre-interview workshop to arrive. The workshop took place in March, at Zendesk's office in London, and went through the different departments that we could interview with the following week as well as who Zendesk were. The departments on offer were: Marketing, Customer Experience, Customer Support, Workplace Experience and Sales. After the workshop, we had to fill out an application online, which involved answering some questions and writing a cover letter. Exactly 8 days later, I was back in the office with 14 other young people ready to interview for a role in the Customer Experience team. The interview was split into three stages: the team task, the speed interviews an the one-on-one interviews. 1 week later, I got a call informing me that I had got the place in the customer experience team and would be starting at 9:30am on the first official day of my Easter holiday.
+
+The first day...
+----------------
+The day had finally come, the day I had been waiting for, my first day of work. I arrived at 9:15am ready for a full day of work and waited in the lobby with the other 4 interns until 9:30 when the day would officially start. We were then led in by our main point of contact for the week and taken to one of the meeting rooms in order to complete our induction. For the first couple of hours we went through all the essentials(with multiple breaks scattered throughout), including receiving our laptops for the week and getting our swipe cards. We were also given a tour of the office which was amazing, boasting sofas and work booths, as well as a ping pong room and two kitchens. The offices were very relaxed, modern and cool to say the least. The time then came for us to go and meet our teams and spend the last hour and a half with them, potentially getting started with our tasks. When I got up to my team, I was greeted with smiles all around and a genuinely friendly environment where I enjoyed quite a few good conversations throughout the week. I was also given my own desk, fitted with a monitor that could be attached to my laptop, an Apple mouse and an Apple keyboard(the usual occupant of the desk was away on business and therefore no harm was seen in letting me use it for the week I was there). I was then taken to one of the booths and told more about what I would be doing throughout the week as well as being assigned my first task. My first task, was a bit of customer research. This involved me looking at the customers annual reports to find out their aims as well as finding out more about the people who would be attending an upcoming meeting with Zendesk. This taught me about how much work goes into securing new business deals as well as some new skills such as summarising points(which is also a good transferable skill to use in my current studies and revision). It was a great first day and left me excited for my next day at work.
+![My first ever work desk](/images/mydesk.jpg)
+
+The rest of the week...
+-----------------------
+On my second day, I was assigned the task of creating a Facebook messenger bot for one of Zendesk's demo companies, which are fake companies that are used to show off Zendesk's many capabilities. That day I also had a couple of meetings with other departments and some employees to learn about how the company worked, however my mind was mainly focused on the task I had been assigned. After hours of hard work, I began to realise I wasn't getting very far with the bot, due to the poor documentation provided by Facebook. I had to change my strategy, and so I asked one of the members of my team whether they could message the team in Manilla who had successfully implemented a bot for another one of the test companies. I went home that day feeling ready for the next day.
+
+Arriving at work the next day, I was told that the Manilla team had replied, and that they had used an external program that required little to no coding and mostly used drag-and-drop blocks. This made the creation of the Facebook bot a lot quicker and ultimately made it easier too. I also got to sit in on a call with a customer that day in order to help them with their Zendesk configuration and schedule future calls with the customer. I also began to enjoy the perks of free food throughout the day and ping pong with other interns, which was great fun.
+
+My third day was mostly focused on perfecting the simple bot I had made the day before and sitting in on another call. We were also treated to lunch by one of the workers in the Support team who took us out to Poncho 8 in Paddington and had a chat with us while we feasted on some burritos.
+
+I arrived on the last day of my internship sad about it being my last day, having learnt a lot throughout the week about the sort of business Zendesk was and the industry that I would like to work in. I also learnt more about programming and the customer experience team which I had the great experience of interning with.
+
+Reflection
+----------
+The internship provided me with many answers to previous questions I had about options after sixth form as well as all the different departments that allow a company to work as it does. The week also strengthened my dream of working as a coder in the tech industry and provided me with work experience that I needed. I would like to thank all the people who took time to talk with me and the other interns out of their busy schedules and being so welcoming and friendly. I hope one day I will have the chance to come back to Zendesk and see all the of the people who were so helpful in my internship.
