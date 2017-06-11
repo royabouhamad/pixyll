@@ -7,8 +7,6 @@ summary:    Tutorial on building a desktop calculator in python.
 categories: PyQt5 Tech Python Calculator Tutorial GUI Programming
 ---
 
-# Making a Calculator in Python with PyQt5
-
 I recently decided that I wanted to try and learn how to create GUI's using my programming language of choice, Python. To do this, I decided that I would use the PyQt5 library as TKinter seems to involve a lot more hassle to use and frankly, I don't have that much time to spare. Armed with my Python IDE and recently downloaded version of PyQt5, I got to work.
 
 ### **Setting up the environment**
