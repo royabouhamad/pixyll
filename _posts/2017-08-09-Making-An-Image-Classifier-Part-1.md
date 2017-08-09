@@ -27,6 +27,8 @@ sudo pip  install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/te
 ```
 If you do not already have pip you can install it quickly by running ```sudo easy_install --upgrade pip```.
 
+#### Retraining
+
 Now that you have TensorFlow installed, navigate to your projects folder and create a folder called tensor(all your image classification files will be stored in here whereas your UI file will be stored outside this folder). Inside your tensor folder create a folder that will store all your images, and inside that folder create folders that are named after what you want to classify, for example your directories could look like this:
 
 ```
