@@ -71,4 +71,4 @@ And that's it, your image classifier is trained, to use your retrained model, yo
 At the moment, to run this script you must run a command in your terminal specifying the path of the image you want to classify and the script you want to run. This command looks like this:
 ```python label_image.py path/to/image```. However, in the next tutorial we will create a GUI so that you don't have to use your terminal anymore and edit the ```label_image.py``` file slightly in order to pass results between our python scripts.
 
-Once again, you can find all the files and code on my Github at github.com/RoyAbouhamad and feel free to comment or reach out to me on LinkedIn with any feedback or questions. Thanks for reading and hope to see you in the next part of my tutorial series.
+Once again, you can find all the files and code on my Github at [https://github.com/royabouhamad/TensorFlow-Image-Identifier](https://github.com/royabouhamad/TensorFlow-Image-Identifier) and feel free to comment or reach out to me on LinkedIn with any feedback or questions. Thanks for reading and hope to see you in the next part of my tutorial series.
