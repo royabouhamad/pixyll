@@ -1,7 +1,7 @@
 ---
 layout:     post
 comments: true
-title:      Making an image classifier part 1
+title:      Making an Image Classifier Part 1
 date:       2017-08-18 12:42:10
 summary:    First part of my two part series on making an image classifier with a GUI.
 categories: TensorFlow PyQt5 Inception Retraining Classifier Machine Learning AI
