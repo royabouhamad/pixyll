@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 tags: about
 ---
-> I'm Roy and I love coding.
-
 ![First Intership](/images/me.jpg)
 
-I'm Roy, 17, and I strive to challenge myself in whatever it is I do (be it coding or snowboarding). My main aim is to solve issues that are currently faced around the world throuh the use of technology.
+I'm Roy, 18, and I strive to challenge myself in whatever it is I do (be it coding or snowboarding). My main aim is to solve issues that are currently faced around the world throuh the use of technology.
 
-My knowledge of code and computer science is constantly growing as I regularly teach myself to code using different languages and I currently have quite an extensive knowledge of Python as well as good knowledge of web developing languages(html, CSS, javascript) and limited Java. I enjoy building chatbots and applications with Python and am currently learning how to use PyQt5 in order to create GUI's. Although my Github presence is quite small at the moment, I aim to increase the number of repository's I currently have and share my code with the world.
+My knowledge of code and computer science is constantly growing as I regularly teach myself to code using different languages and I currently have quite an extensive knowledge of Python as well as good knowledge of web developing languages(html, CSS, javascript) and limited Java. I enjoy building chatbots and applications with Python and am currently learning how to use Django in order to build more elegant websites. Although my Github presence is quite small at the moment, I aim to increase the number of repository's I currently have and share my code with the world as well as contributing to other open-source projects.
 
-I am currently studying for my A-levels in Maths, Further Maths and Computer Science, having acheived 3 A's and a B in Maths, Further Maths, Computer Science and Physics at AS respectively.
-
-In the future, I see myself studying for a masters degree in computer science and eventually working for an established tech company.
+At A-Levels, I achieved 1 A* and 2 A's in Maths, Further Maths and Computer Science respectively and will be starting a masters degree in Computer Science at the University of Bath from October 2018. In the future, I see myself using my programming knowledge as a force for good be it through my own company or an already established company.
